@@ -15,7 +15,6 @@ import org.testng.annotations.Test;
 
 import com.gspann.makemytrip.HolidaysInternational;
 
-import common.Common;
 import common.BrowserFactory;
 
 @Test
